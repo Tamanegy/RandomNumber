@@ -1,0 +1,14 @@
+api-version: 1.16
+author: Tamanegy
+version: -marshmellow 
+name: RNGDifficulty
+main: konpiou.Main
+
+commands:
+  kit:
+      description: permet d'afficher les kits et de se les donner
+  heal:
+      description: permet de se heal
+  vanish:
+      description: permet de se mettre en vanish
+   
